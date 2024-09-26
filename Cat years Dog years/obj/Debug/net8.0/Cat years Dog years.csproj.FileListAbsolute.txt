@@ -1,0 +1,15 @@
+C:\Users\Luis Hernandez\source\repos\Cat years Dog years\Cat years Dog years\bin\Debug\net8.0\Cat years Dog years.exe
+C:\Users\Luis Hernandez\source\repos\Cat years Dog years\Cat years Dog years\bin\Debug\net8.0\Cat years Dog years.deps.json
+C:\Users\Luis Hernandez\source\repos\Cat years Dog years\Cat years Dog years\bin\Debug\net8.0\Cat years Dog years.runtimeconfig.json
+C:\Users\Luis Hernandez\source\repos\Cat years Dog years\Cat years Dog years\bin\Debug\net8.0\Cat years Dog years.dll
+C:\Users\Luis Hernandez\source\repos\Cat years Dog years\Cat years Dog years\bin\Debug\net8.0\Cat years Dog years.pdb
+C:\Users\Luis Hernandez\source\repos\Cat years Dog years\Cat years Dog years\obj\Debug\net8.0\Cat years Dog years.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Luis Hernandez\source\repos\Cat years Dog years\Cat years Dog years\obj\Debug\net8.0\Cat years Dog years.AssemblyInfoInputs.cache
+C:\Users\Luis Hernandez\source\repos\Cat years Dog years\Cat years Dog years\obj\Debug\net8.0\Cat years Dog years.AssemblyInfo.cs
+C:\Users\Luis Hernandez\source\repos\Cat years Dog years\Cat years Dog years\obj\Debug\net8.0\Cat years Dog years.csproj.CoreCompileInputs.cache
+C:\Users\Luis Hernandez\source\repos\Cat years Dog years\Cat years Dog years\obj\Debug\net8.0\Cat years Dog years.sourcelink.json
+C:\Users\Luis Hernandez\source\repos\Cat years Dog years\Cat years Dog years\obj\Debug\net8.0\Cat years Dog years.dll
+C:\Users\Luis Hernandez\source\repos\Cat years Dog years\Cat years Dog years\obj\Debug\net8.0\refint\Cat years Dog years.dll
+C:\Users\Luis Hernandez\source\repos\Cat years Dog years\Cat years Dog years\obj\Debug\net8.0\Cat years Dog years.pdb
+C:\Users\Luis Hernandez\source\repos\Cat years Dog years\Cat years Dog years\obj\Debug\net8.0\Cat years Dog years.genruntimeconfig.cache
+C:\Users\Luis Hernandez\source\repos\Cat years Dog years\Cat years Dog years\obj\Debug\net8.0\ref\Cat years Dog years.dll
